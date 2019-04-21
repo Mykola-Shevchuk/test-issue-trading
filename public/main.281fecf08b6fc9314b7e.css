@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+.table-container {
+    width: 700px;
+}
+
+.table {
+    width: 100%;
+    background-color: #eeeeee;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.table thead {
+    background-color: #cccccc;
+}
+
+.table td {
+    text-align: center;
+    border: 1px solid #272727;
+    padding: 10px;
+}
